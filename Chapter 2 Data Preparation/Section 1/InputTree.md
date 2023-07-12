@@ -19,3 +19,5 @@ f.	Save the Polygon: After converting the raster to a polygon, you can save the 
 By following these steps, you selected a tree point, created a buffer to represent the tree crown, clipped a DEM raster using the buffer, and converted the pixel values to a polygon feature class. This process allows you to obtain a polygon representing the tree crown based on the selected tree point.
 
 Note: Remember, data availability may vary depending on your study area and the specific requirements of your project. Now that we know where to find data, let's move on to project preparation.
+
+#### [Next Section](/Chapter%202%20Data%20Preparation/Section%202/Section%202.md)
