@@ -52,4 +52,4 @@ Now you have your own NDVI for your study area!
 ## 3.	Open Data Portals: 
 Many governmental and environmental organizations offer open data portals with a wide range of spatial datasets. These portals often contain relevant data, such as land cover maps or climate information.
 
-[Continue](Section%201-1.md)
+[Continue](Trees.md)
