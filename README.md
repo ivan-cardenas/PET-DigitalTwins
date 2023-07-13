@@ -18,7 +18,7 @@ Please cite this work
 
 # BibTeX
 ```
-@Workflow{Cardenas_Digital_Twins_for_2023,
+@manual{Cardenas_Digital_Twins_for_2023,
 author = {Cárdenas, Ivan L. and Morales, Luis Rodrigoandrés},
 doi = {10.5281/zenodo.8141936},
 month = jul,
