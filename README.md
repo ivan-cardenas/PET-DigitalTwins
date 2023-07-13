@@ -14,9 +14,12 @@
 ### [Get Started](/Introduction/Introduction.md)
 
 ---
+### Online Tool
 You can access the working online tool [here](https://utwente.maps.arcgis.com/apps/webappviewer/index.html?id=ca1f19d5ecfb4820a5d1c0ae31d61563) 
 
 <img width="959" alt="image" src="https://github.com/ivan-cardenas/PET-DigitalTwins/assets/21996448/24393bdf-caa6-4c65-b1ae-90545acfdced">
+
+We also provide with a [video](https://youtu.be/WjoYRjI_w9w) on how to use this online tool. 
 
 ---
 Please cite this work
