@@ -4,7 +4,9 @@ For this part we will also use the Building and NDVI variables that we added at 
 
 ##### A.	BUILDING EFFECT ON BOWEN RATIO
 
-###### Step 1. Assign Bowen to Buildings: We will need to assign the Bowen values to the Buildings, therefore we will use the geoprocessing tool Calculate Field.
+###### Step 1. Assign Bowen to Buildings: 
+
+We will need to assign the Bowen values to the Buildings, therefore we will use the geoprocessing tool Calculate Field.
 
 1)	In the Catalog pane, navigate to the Geoprocessing Toolbox and expand it.
 
