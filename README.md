@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/665569986.svg)](https://zenodo.org/badge/latestdoi/665569986)
+
+
 # Digital Twins for PET Calculation
 ### Case: Municipality of Enschede
 #### Developed by: [Iván Cárdenas](https://www.linkedin.com/in/icmaps/) and [Rodrigoandrés Morales](https://www.linkedin.com/in/luis-morales-a45a9859)
