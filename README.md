@@ -34,7 +34,7 @@ Please cite this work
 @misc{cardenas_ivan_l_2023_8306385,
   author       = {Cárdenas, Ivan L. and
                   Morales, Luis Rodrigoandrés and
-                  Koeva, MIla and
+                  Koeva, Mila and
                   Atun, Funda and
                   Pfeffer, Karin},
   title        = {{Digital Twins for Physiological Equivalent 
