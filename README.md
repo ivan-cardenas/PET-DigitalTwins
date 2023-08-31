@@ -31,14 +31,20 @@ Please cite this work
 
 # BibTeX
 ```
-@manual{Cardenas_Digital_Twins_for_2023,
-author = {Cárdenas, Ivan L. and Morales, Luis Rodrigoandrés},
-doi = {10.5281/zenodo.8141936},
-month = jul,
-title = {{Digital Twins for Physiological Equivalent Temperature Calculation Guide}},
-url = {https://github.com/ivan-cardenas/PET-DigitalTwins},
-version = {0.7},
-year = {2023}
+@misc{cardenas_ivan_l_2023_8306385,
+  author       = {Cárdenas, Ivan L. and
+                  Morales, Luis Rodrigoandrés and
+                  Koeva, MIla and
+                  Atun, Funda and
+                  Pfeffer, Karin},
+  title        = {{Digital Twins for Physiological Equivalent 
+                   Temperature Calculation Guide}},
+  month        = aug,
+  year         = 2023,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.8306385},
+  url          = {https://doi.org/10.5281/zenodo.8306385}
 }
 ```
 
