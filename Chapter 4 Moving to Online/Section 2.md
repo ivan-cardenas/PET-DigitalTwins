@@ -16,4 +16,8 @@ Click on the name of the tool to verify the configuration of it and go to the â€
 
 ![Alt text](image-8.png)
 
-#### [Next](Section%203.md)
+#### [![Next]](Section%203.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

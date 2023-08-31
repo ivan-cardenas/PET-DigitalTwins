@@ -148,4 +148,8 @@ In order to convert the code into a geoprocessing tool that can take user inputs
 
 It was easy right? Now that you know the basics we can move on into operations that will need multiple variables and geoprocessing tools together. There is no need to worry, as long as you apply the concepts you just learned you will do fine. We will also give you step by step instructions on how to proceed so you will not get lost in the process!
 
-#### [Next](Section%202-1.md)
+#### [![Next]](Section%202-1.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

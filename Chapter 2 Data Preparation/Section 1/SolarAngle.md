@@ -39,4 +39,8 @@ k.	In the tool dialog, you can enter values for the input parameters (`when_full
 
 l.	Click "Run" to execute the script with the provided input values.
 
-[Next](Wind%20Speed.md)
+[![Next]](Wind%20Speed.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

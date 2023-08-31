@@ -46,4 +46,8 @@ The code calculates a value based on various input variables, remember the PET e
 7)	Save your model and test it by pressing “Run” to execute the Raster Calculator tool. It will apply the provided code to perform the specified calculations on the input rasters.
 
 
-#### [Next](Section%202-7.md)
+#### [![Next]](Section%202-7.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

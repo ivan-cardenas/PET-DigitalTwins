@@ -14,4 +14,8 @@ That's it! By following these steps, you can build and run a your own PET tool m
 
 ---
 
-### [Next Section](Section%203.md)
+### [![Next Section]](Section%203.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next Section]: https://img.shields.io/badge/Next_Section-37a779?style=for-the-badge

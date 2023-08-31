@@ -35,4 +35,8 @@ Once you have configured the tree tabs click on analyse for identify any error a
 
 It will take some time for the tool to export, once is ready we can move to next step.
 
-#### [Next](Section%202.md)
+#### [![Next]](Section%202.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

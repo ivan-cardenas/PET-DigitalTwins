@@ -20,4 +20,8 @@ By following these steps, you selected a tree point, created a buffer to represe
 
 Note: Remember, data availability may vary depending on your study area and the specific requirements of your project. Now that we know where to find data, let's move on to project preparation.
 
-#### [Next Section](/Chapter%202%20Data%20Preparation/Section%202/Section%202.md)
+#### [![Next Section]](/Chapter%202%20Data%20Preparation/Section%202/Section%202.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next Section]: https://img.shields.io/badge/Next_Section-37a779?style=for-the-badge

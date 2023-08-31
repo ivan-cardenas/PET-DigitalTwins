@@ -43,4 +43,8 @@ Once you've added the data, it's essential to examine the attribute tables assoc
 
 With your project set-up and data in place, you're now ready to embark on the exciting journey of PET calculation. In Chapter 3, we'll delve into the specifics of using geoprocessing tools to calculate PET in ArcGIS Pro. Buckle up and get ready to unleash the power of spatial analysis in the realm of thermal comfort!
  
-#### [Next Chapter](/Chapter%203%20Calculating%20PET%20Locally/Section%201.md)
+#### [![Next Chapter]](/Chapter%203%20Calculating%20PET%20Locally/Section%201.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next Chapter]: https://img.shields.io/badge/Next_Chapter-37a779?style=for-the-badge

@@ -32,4 +32,8 @@ d.	Follow the prompts to import the GeoJSON file into ArcGIS Pro.
 ---
 Note: You can also try to generate a code that will let you get the trees inside of your city of choice with this method, try changing some of the parameters and explore what options make your workflow easier!
 
-[Next](Buildings_DSM.md)
+[![Next]](Buildings_DSM.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

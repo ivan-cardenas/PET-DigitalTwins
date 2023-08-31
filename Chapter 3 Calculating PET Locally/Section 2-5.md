@@ -48,4 +48,8 @@ c.	Output WB (Double) Direction as Output
 
 ![Alt text](image-23.png)
 
-#### [Next](Section%202-6.md)
+#### [![Next]](Section%202-6.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

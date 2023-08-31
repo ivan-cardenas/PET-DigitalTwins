@@ -10,4 +10,8 @@ Sometimes, things don't go as smoothly as we hope. Don't worry; we've got some t
 
 Remember, practice makes perfect. Don't be discouraged if you encounter challenges along the way. Embrace the learning process and enjoy the journey of mastering PET calculation in ArcGIS Pro.
 
-### [Next Chapter](/Chapter%204%20Moving%20to%20Online/Section%201.md)
+### [![Next Chapter]](/Chapter%204%20Moving%20to%20Online/Section%201.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next Chapter]: https://img.shields.io/badge/Next_Chapter-37a779?style=for-the-badge

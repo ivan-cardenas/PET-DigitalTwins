@@ -6,4 +6,8 @@ Geoprocessing tools in ArcGIS Pro are your trusted companions when it comes to p
 
 2.	Parameters: Geoprocessing tools require certain inputs called parameters to perform their calculations. These parameters include data layers, settings, and other information necessary for the tool to operate correctly. As we go through the process, we'll explain each parameter and how to provide the required inputs.
 
-#### [Next](Section%202.md)
+#### [![Next]](Section%202.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

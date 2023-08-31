@@ -113,4 +113,8 @@ This code checks if the "Water Raster" dataset is null. If it is null, the outpu
 7)	Save your model and test it by pressing “Run” to execute the Raster Calculator tool. It will apply the provided code to perform the specified calculations on the input rasters.
 
 
-#### [Next](Section%202-5.md)
+#### [![Next]](Section%202-5.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

@@ -47,4 +47,8 @@ i.	Click on the "Run" button to execute the Raster Calculator tool.
 
 j.	Once the tool completes, the resulting DEM raster will be saved in the specified output location. You can add this DEM raster to your map by dragging and dropping it from the "Catalog" pane or by right-clicking on the map and selecting "Add Data."
 
-[Next](SolarAngle.md)
+### [![Next]](SolarAngle.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge
