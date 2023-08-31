@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Cárdenas"
+  given-names: "Iván L."
+  orcid: "https://orcid.org/0009-0005-0245-633X"
+- family-names: "Morales"
+  given-names: "Rodrigoandrés"
+- family-names: "Koeva"
+  given-names: "Mila"
+  orcid: "https://orcid.org/0000-0001-7612-5270"
+- family-names: "Atun"
+  given-names: "Funda"
+  orcid: "https://orcid.org/0000-0002-6222-8049"
+- family-names: "Pfeffer"
+  given-names: "Karin"
+  orcid: "https://orcid.org/0000-0002-6080-1323"
+title: "Digital Twins for Physiological Equivalent Temperature Calculation Guide"
+version: 1.0.0
+doi: 10.5281/zenodo.8306385
+date-released: 2023-08-31
+url: "https://github.com/ivan-cardenas/PET-DigitalTwins"
