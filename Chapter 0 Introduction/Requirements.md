@@ -25,4 +25,8 @@ To perform the PET calculation, you will need the necessary GIS data layers. The
 ---
 Make sure you have these prerequisites fulfilled before proceeding with the guide. Having the necessary software, licenses, data, and knowledge will ensure a smooth experience while using the geoprocessing tool to calculate the Physiological Equivalent Temperature (PET) in ArcGIS Pro.
 
-#### [Next](/Chapter%201%20Getting%20Started/Section%201.md)
+#### [![Next]](/Chapter%201%20Getting%20Started/Section%201.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

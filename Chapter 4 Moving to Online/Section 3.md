@@ -8,4 +8,8 @@ Change your map name and add Tags and summary information. On the configuration 
 
 ![Alt text](image-10.png)
 
-#### [Next](Section%204.md)
+#### [![Next]](Section%204.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge

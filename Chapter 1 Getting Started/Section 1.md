@@ -42,4 +42,8 @@ You'll need relevant spatial data to perform PET calculations. This typically in
 ## 3. Geoprocessing Tools: 
 Familiarize yourself with the geoprocessing tools in ArcGIS Pro. These tools allow you to perform various spatial analyses and calculations. We'll introduce and explain each tool as we go along, so no prior knowledge is required. Just keep your curiosity and enthusiasm handy!
 
-### [Next](Section%202.md)
+### [![Next]](Section%202.md)
+
+<!---------------------------------------------------------------------------->
+
+[Next]: https://img.shields.io/badge/Next-37a779?style=for-the-badge
