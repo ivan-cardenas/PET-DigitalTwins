@@ -48,4 +48,4 @@ year = {2023}
 
 <!---------------------------------[ Buttons ]--------------------------------->
 [Badge Start]: https://img.shields.io/badge/Get_Started-37a779?style=for-the-badge
-[Badge License]: https://img.shields.io/badge/-BY_SA_4.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
+[Badge License]: https://img.shields.io/badge/-GPL_3.0-ae6c18.svg?style=for-the-badge&labelColor=EF9421&logoColor=white&logo=CreativeCommons
