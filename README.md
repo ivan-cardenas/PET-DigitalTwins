@@ -7,6 +7,7 @@
 #### Authors: Iván Cárdenas [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="20"/>](https://www.linkedin.com/in/icmaps/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="20"/>](https://orcid.org/0009-0005-0245-633X), Rodrigoandrés Morales [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="20"/>](https://www.linkedin.com/in/luis-morales-a45a9859), Mila Koeva [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="20"/>](https://www.linkedin.com/in/mila-koeva-b7ab136) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="20"/>](https://orcid.org/0000-0001-7612-5270), Funda Atun [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="20"/>](https://www.linkedin.com/funda-atun-girgin-phd-29100a16/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="20"/>](https://orcid.org/0000-0002-6222-8049), Karin Pfeffer [<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" height="20"/>](https://www.linkedin.com/in/karinpfeffer/) [<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="20"/>](https://orcid.org/0000-0002-6080-1323)
 
 <br>
+
 #### A project of [University of Twente](https://www.utwente.nl/)
 ##### [Faculty of Geo-information Science and Earth Observation](https://www.Itc.nl)
 ###### Urban and Regional Planning and Management 
