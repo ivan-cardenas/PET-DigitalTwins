@@ -11,7 +11,7 @@
 ##### [Faculty of Geo-information Science and Earth Observation](https://www.Itc.nl)
 ###### Urban and Regional Planning and Management 
 
-### [![Button Start]][Start]
+[![Badge Start]][Start]
 
 
 ---
@@ -39,8 +39,8 @@ year = {2023}
 ```
 
 
-<!---------------------------------->
-[Start]: # [Get Started](/Introduction/Introduction.md)
+<!----------------------------------------------------------------------------->
+[Start]: (Chapter 0 Introduction/Introduction.md)
 
 <!---------------------------------[ Buttons ]--------------------------------->
-[Button Example]: https://img.shields.io/badge/Get Started?style=Blue
+[Badge Start]: https://img.shields.io/badge/Get Started?style=Blue
