@@ -43,8 +43,8 @@ Please cite this work
   year         = 2023,
   publisher    = {Zenodo},
   version      = {v1.0},
-  doi          = {10.5281/zenodo.8306385},
-  url          = {https://doi.org/10.5281/zenodo.8306385}
+  doi          = {10.5281/zenodo.8306456},
+  url          = {https://doi.org/10.5281/zenodo.8306456}
 }
 ```
 
