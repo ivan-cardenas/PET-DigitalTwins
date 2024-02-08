@@ -1,3 +1,6 @@
+""" This tool was conceptualized and developed by Rodrigoandrés Morales 
+Connect on LinkedIn ---> https://nl.linkedin.com/in/rodrigoandres-morales-a45a9859 """
+
 import arcpy # necessary library to run all geoprocessing tools in ArcGIS
 
 arcpy.env.overwriteOutput=True #When set to True tools will execute and overwrite any existing output
