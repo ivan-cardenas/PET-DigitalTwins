@@ -61,6 +61,6 @@ def get_altitude_fast(latitude_deg, longitude_deg, when):
   
     return degrees(asin(first_term + second_term))
  
-altitude = get_altitude_fast(latitude,longitude,when_full)
+altitude = 90-get_altitude_fast(latitude,longitude,when_full)
  
 arcpy.SetParameter(3, altitude)
